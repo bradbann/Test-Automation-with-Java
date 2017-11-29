@@ -7,7 +7,7 @@ import org.openqa.selenium.support.How;
 import org.openqa.selenium.support.PageFactory;
 
 /**
- * Created by whaque on 27.04.17.
+ * Created by whaque on 27.11.17.
  */
 public class LoginPage {
     public LoginPage(WebDriver driver) {
